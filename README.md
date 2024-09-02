@@ -6,4 +6,9 @@ I was testing [FUTO keyboard](https://keyboard.futo.org/), opensource keyboard t
 
 So I tried to compile my own following [these instructions](https://github.com/remi0s/aosp-dictionary-tools). I dowloaded a wordlist from [Frequency Words repository](https://github.com/hermitdave/FrequencyWords/tree/master/content/2016) (they compiled the wordlist and their frequency from OpenSubtitles and Wikipedia), and converted them in AOSP format.
 
-Please note, there is also [Macedonian Spellcheck Dictionary](https://github.com/gerazov/dictionary-mk/tree/master) available online.
+- [Macedonian AOSP dictionary](main_mk.dict) (you can import this file to FUTO Keyboard directly)
+- [Macedonian wordlist](mk_wordlist.combined)
+- [Macedonian Spellcheck Dictionary](https://github.com/gerazov/dictionary-mk/tree/master) (external resource).
+
+
+*Please note I am not Macedonian and do not speak Macedonian language so well, so please open any potential issues in English.*
